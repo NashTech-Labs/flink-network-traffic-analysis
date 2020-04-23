@@ -1,5 +1,3 @@
-# flink-network-traffic-analysis
-
 * A Flink application project using Scala and SBT for Network Traffic Analysis.
 
 * In order to run your application from within IntelliJ, open the Configuration drop-down and click on Edit Configuration
